@@ -1,0 +1,7 @@
+{
+  "name": "UI Mapper AI",
+  "description": "An advanced UI component detection and mapping tool that uses AI to visualize and export interface structures from screenshots.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
