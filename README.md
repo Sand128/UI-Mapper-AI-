@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🖼️ UI-Mapper-AI 🖼️
 
-# Run and deploy your AI Studio app
+🚀 **Production Deployment:** [ui-mapper-ai.vercel.app](https://ui-mapper-ai.vercel.app)
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1eeLSGXQuIvq2taKivWA-3xn20yRKDiMA
+## 💡 ¿Qué es UI-Mapper-AI?
 
-## Run Locally
+**UI-Mapper-AI** es una aplicación web que permite analizar capturas de pantalla (screenshots) para identificar y catalogar automáticamente los componentes de la interfaz gráfica, tales como botones, encabezados, formularios, entre otros.
 
-**Prerequisites:**  Node.js
+El sistema describe los elementos encontrados en la imagen y ofrece la opción de guardar ese análisis en formato imagen o en otros formatos, facilitando la documentación y desarrollo UI.
+
+---
+
+## 🚀 Características principales
+
+- 📸 Subida múltiple de imágenes para análisis  
+- 🤖 Identificación automática y etiquetado de componentes UI  
+- 💾 Exportación de resultados en formatos visuales y de datos  
+- 🖥️ Interfaz sencilla y responsiva para usuarios finales  
+
+---
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
